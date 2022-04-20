@@ -1,3 +1,21 @@
 body { 
-    background-color: lightblue;
+   /* background-color: lightblue;*/
+}
+
+h1{font-size: 50px;color: #007e7e;}
+
+h2{font-size: 10px;font-family: Verdana, Helvetica, Arial, sans-serif}
+h3{color: red;}
+
+
+
+#garantie {
+    background-image: url(bilder/hintergrund.gif);
+    background-repeat: no-repeat;
+    background-color: #a7cece;
+    padding: 15px;
+    margin: 10px;
+    border: 1px dashed;
+    font-family: italic;
+    
 }
